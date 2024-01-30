@@ -8,7 +8,7 @@ public class GitTest {
 		System.out.println("Hello");
 		System.out.println("Git");
 		System.out.println("Welcome");
-		System.out.println("second");
+		System.out.println("2nd");
 	}
 
 	public static void main(String[] args) {
